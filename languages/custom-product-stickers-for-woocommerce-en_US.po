@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Product Stickers for Woocommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-22 12:35+0000\n"
+"PO-Revision-Date: 2017-05-22 12:39+0000\n"
+"Last-Translator: Ribas Medicina <cristina.bustelo.fernandez@gmail.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en-US\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. URI of the plugin
+msgid "https://starblank.com"
+msgstr "https://starblank.com"
+
+#. Author of the plugin
+msgid "starblank.com"
+msgstr "starblank.com"
+
+#. Author URI of the plugin
+msgid "https://github.com/saulbustos/"
+msgstr "https://github.com/saulbustos/"
+
+#: include/stick-admin.php:99
+msgid "Sticker producto "
+msgstr "Product Sticker "
+
+#: include/stick-admin.php:102
+msgid "Activar para producto "
+msgstr "Activate for product "
+
+#: include/stick-admin.php:108
+msgid "Dias para considerar un producto como nuevo:"
+msgstr "Days for considering a product as new:"
+
+#: include/stick-admin.php:111
+msgid "Tipo de producto:"
+msgstr "Product type:"
+
+#: include/stick-admin.php:117
+msgid "RIBBON"
+msgstr "RIBBON"
+
+#: include/stick-admin.php:122
+msgid "Usar ribbon"
+msgstr "Use ribbon"
+
+#: include/stick-admin.php:125
+msgid "Texto del ribbon"
+msgstr "Ribbon text"
+
+#: include/stick-admin.php:129
+msgid "Color del texto"
+msgstr "Text color"
+
+#: include/stick-admin.php:133
+msgid "Color fondo"
+msgstr "Background color"
+
+#: include/stick-admin.php:136
+msgid "Alineacion"
+msgstr "Align"
+
+#: include/stick-admin.php:138
+msgid "Izquierda"
+msgstr "Left"
+
+#: include/stick-admin.php:139
+msgid "Derecha"
+msgstr "Right"
+
+#: include/stick-admin.php:143 include/stick-admin.php:147
+#: include/stick-admin.php:151 include/stick-admin.php:155
+msgid "CSS Personalizado - Clase: "
+msgstr "Custom css for class:"
+
+#: include/stick-admin.php:160
+msgid "IMAGEN"
+msgstr "IMAGE"
+
+#: include/stick-admin.php:164
+msgid "Usar imagen"
+msgstr "Use image"
+
+#: include/stick-admin.php:167
+msgid "Ancho (indica px o %)"
+msgstr "Width (px or %)"
+
+#: include/stick-admin.php:171
+msgid "Alto (indica pc o %)"
+msgstr "Height (px or %)"
+
+#: include/stick-admin.php:177
+msgid "Imagen para sticker"
+msgstr "Sticker image"
+
+#: include/stick-admin.php:183
+msgid "Transparencia de la capa"
+msgstr "Layer transparency"
+
+#: include/stick-admin.php:183 include/stick-admin.php:186
+msgid "Mas transparente"
+msgstr "More transparent"
+
+#: include/stick-admin.php:184 include/stick-admin.php:187
+msgid "Mas opaco"
+msgstr "Less transparent"
+
+#: include/stick-admin.php:186
+msgid "Transparencia de la imagen"
+msgstr "Image transparency"
+
+#. Name of the plugin
+msgid "Custom Product Stickers for Woocommerce"
+msgstr "Custom Product Stickers for Woocommerce"
+
+#. Description of the plugin
+msgid "This plugin easily adds stickers to products"
+msgstr "This plugin easily adds stickers to products"
